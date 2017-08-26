@@ -8,3 +8,4 @@ test again
 =======
 test
 >>>>>>> feature1
+test2
